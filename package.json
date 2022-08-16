@@ -1,0 +1,25 @@
+
+{
+  "name": "lab-disney-characters",
+  "version": "1.0.0",
+  "description": "![Disney search](https://i.giphy.com/media/JUh0yTz4h931K/giphy.webp)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agashjey/lab-disney-characters.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agashjey/lab-disney-characters/issues"
+  },
+  "homepage": "https://github.com/agashjey/lab-disney-characters#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
